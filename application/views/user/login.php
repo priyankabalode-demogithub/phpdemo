@@ -10,7 +10,7 @@
         <?php endif;?>
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title text-center">Login</h5>
+                <h5 class="card-title text-center">Login User</h5>
                 <form method="post" id="frm" action="<?= base_url() ?>welcome/home">
                     
                    
