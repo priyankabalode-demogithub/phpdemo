@@ -7,10 +7,7 @@ class Admin extends CI_Controller {
     {
     
         parent::__construct();
-        
-       
-       
-        
+             
     }
   
     
