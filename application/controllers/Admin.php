@@ -10,7 +10,7 @@ class Admin extends CI_Controller {
              
     }
   
-    
+    // my changes
     public function index()
     {
         $this->load->view('Admin/login');
